@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 10rem;
+}
+
+body {
+  margin: 0;
+  background-image: url("https://i.pinimg.com/originals/9e/45/7f/9e457f19eabaa71335b2b5fb8a74830f.jpg");
+  color: #d3de35;
+}
+input {
+  height: 2rem;
+  font-size: 1rem;
+  border-radius: 1rem;
+  border: 1px solid black;
+  box-shadow: 0rem 0rem 2rem black;
+}
+button {
+  margin: 1rem 0;
+  background-color: #7158d3;
+  padding: 0.5rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+  font-size: medium;
+  box-shadow: 0rem 0rem 2rem black;
+}
