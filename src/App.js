@@ -39,6 +39,10 @@ export default function App() {
   return (
     <div className="App">
       <h1>Welcome to Birthday Palindrome finder</h1>
+      <h2>
+        This app checks your birthdate in 4 formats yyyy-mm-dd, dd-mm-yyyy,
+        mm-dd-yy, m-dd-yyyy
+      </h2>
       <input
         type="date"
         onChange={(event) => {
